@@ -1,4 +1,4 @@
-# 🍕 Order-Management
+# 🍕 FoodsManager-Order-Management
 
 Aplicación web de administración de inventarios y transacciones en el contexto de un restaurante de comidas rápidas (pizza, hamburguesas, etc.). Permite gestionar movimientos, visualizar gráficos y administrar usuarios con diferentes roles.  
   
