@@ -3,7 +3,18 @@
 Aplicación web de administración de inventarios y transacciones en el contexto de un restaurante de comidas rápidas (pizza, hamburguesas, etc.). Permite gestionar movimientos, visualizar gráficos y administrar usuarios con diferentes roles.  
   
 🔗 [Repositorio en GitHub](https://github.com/mateovr19/Order-Management.git)    
-🌐 [Aplicación desplegada](https://foodsmanager-order-managements.vercel.app)  
+🌐 [Aplicación desplegada](https://foodsmanager-order-managements.vercel.app) 
+
+## Usuarios de prueba
+
+**Usuario rol ADMIN**
+- correo: admin@mail.com
+- contraseña: admin1234
+
+**Usuario rol USER**
+- correo: user@mail.com
+- contraseña: user1234
+
   
 <img width="1768" height="819" alt="image" src="https://github.com/user-attachments/assets/7750bcc8-97a5-4ba4-afdb-7da593c2d3c3" />  
 
