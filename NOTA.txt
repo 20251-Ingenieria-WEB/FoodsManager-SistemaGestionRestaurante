@@ -1,0 +1,7 @@
+- Chevere que implementaron con app router, aunque creo que les complico un poco las cosas
+- mejorar el diseño para futuro 
+- falto documentar muchas partes del código 
+
+Muy buen trabajo los felicito, 
+
+Su NOTA es 4.8 
